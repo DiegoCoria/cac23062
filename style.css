@@ -1,0 +1,91 @@
+.navbar-brand {
+    color: azure;
+    font-size: medium;
+    /* vertical-align: middle; */
+}
+
+.banner__container--size {
+    height: 50vw;
+}
+.banner__container--size img {
+    height: 95%;
+    filter: brightness(0.4);
+    -webkit-filter: brightness(0.4);
+}
+
+.card-position {
+    width: 640px;
+    text-align: end;
+    position: absolute;
+    right: 10%;
+    bottom: 35%;
+    color: azure;
+}
+
+.losoradores {
+    text-align: center;
+}
+
+.margenes {
+    margin: 0em 5em 0em 5em;
+}
+
+.card-personalizada {
+    width: 45vh;
+}
+
+.card-body {
+    text-align: left;
+}
+
+.lugar {
+    margin-top: 30px;
+}
+
+.flex-column {
+    text-align: center;
+}
+
+.estilo-pie {
+    background-color: #1e516e;
+    align-items: center;
+}
+
+.nav-itemf {
+    width: 80px;
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 768px) {
+    
+    .card-position {
+    width: 400px;
+    font-size: small;
+    text-align: end;
+    position: absolute;
+    right: 10%;
+    bottom: 35%;
+    }
+    
+    .card-position h3 {
+        font-size: small;
+    }
+    
+    .card-text {
+        font-size: small;
+    }
+
+    .lugar {
+        font-size: small;
+    }
+
+    .nav-itemf {
+        font-size: small;
+        justify-content: center;
+        padding-bottom: 10px;
+    }
+
+    .btn {
+        font-size: small;
+    }
+}

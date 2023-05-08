@@ -8,7 +8,7 @@
     height: 50vw;
 }
 .banner__container--size img {
-    height: 95%;
+    height: 90%;
     filter: brightness(0.4);
     -webkit-filter: brightness(0.4);
 }
@@ -18,7 +18,7 @@
     text-align: end;
     position: absolute;
     right: 10%;
-    bottom: 35%;
+    bottom: 25%;
     color: azure;
 }
 

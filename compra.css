@@ -1,0 +1,19 @@
+/* * {
+    padding: 0;
+    margin: 0;
+} */
+
+
+.fondobtn {
+    background-color: #97c93e;
+}
+
+.estilo-pie {
+    background-color: #1e516e;
+    align-items: center;
+}
+
+.nav-itemf {
+    width: 80px;
+    text-decoration: none;
+}
